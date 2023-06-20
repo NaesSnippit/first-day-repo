@@ -13,9 +13,9 @@
     </header>
     <!-- TODO: add class attribute  -->
     <section>
-      <h2 class="title">Your Name</h2>
+      <h2 class="title">Monet Montgomery</h2>
       <!-- TODO: modify img attributes -->
-      <img src="https://via.placeholder.com/200" alt="Monet Montgomery" />
+      <img src="https://secure.gravatar.com/avatar/d3c678e84a48d7483709c027a8d72a65?s=800&d=identicon" alt="Monet Montgomery" />
       <p>I'm a voice actor, artist and more. I love doing multiple things pertaining to video games and and acting.</p>
     </section>
     <!-- TODO: add class attribute -->
